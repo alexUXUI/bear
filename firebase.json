@@ -1,0 +1,9 @@
+{
+  "firebase": "bigbear",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
