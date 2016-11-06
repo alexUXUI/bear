@@ -21,6 +21,7 @@ You can use the tack pad or mouse to change the perspective of the camera.
 ```
 $ git clone https://github.com/alexUXUI/bear
 $ cd bear
+$ npm i && npm i -S
 $ npm install http-server -g
 $ http-server
 
